@@ -2,7 +2,7 @@
 
 Self-serve cohort analytics tool. Upload any event CSV and get a full retention matrix, drop-off heatmap, and average retention curve — no SQL required.
 
-**Built from:** the manual cohort analysis process used at JMT Worldwide on a 50K+ MAU database.
+**Built from:** a manual SQL cohort-analysis process, generalized into a self-serve tool.
 
 ## Stack
 - Python · pandas · Plotly · Streamlit
